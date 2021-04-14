@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @nishantminerva
-- 👀 I’m interested in startups and entrepreneurship and love partcipating in hackathons.In my first hackathon i secured 317 in 6000+ hackers.
-- 🌱 I’m currently learning IOS Development and CS50 Introduction to Computer Science. 
-- 💞️ I’m looking to collaborate on web-development,IOS Apps,Python projects.
-- 📫 How to reach me:- go to https://www.linkedin.com/in/nishantminerva/
 
 <!---
 nishantminerva/nishantminerva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,15 +9,15 @@ You can click the Preview link to take a look at your changes.
 <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
  </p>
  
-<h2 align="center">I ❤️ Open Source</h2>
+<h2 align="center">I ❤️ Open Source and Startups </h2>
 
-- 🌱 I’m passionate about **Web Development, Machine Learning, Android Development and almost every technology**
+- 🌱 I’m passionate about **Web Development, Machine Learning, Android Development and I’m looking to collaborate on web-development,IOS Apps,Python projects.
 
-- ❤️ I Love to Learn new things and Want to explore every technology
+- ❤️ I Love to Learn new things and Want to explore every technology and currently learning IOS Development and CS50 Introduction to Computer Science.
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/NishnatMinerva](https://www.github.com/nishantminerva)
 
-- 📝 I love to write articles on [https://medium.com/@dhairyabahl5](https://medium.com/@nishantminerva)
+- 📝 I love to write articles on [https://medium.com/@NishantMinerva](https://medium.com/@nishantminerva)
 
 - 💬 **Just A Noob ^__^**
 
