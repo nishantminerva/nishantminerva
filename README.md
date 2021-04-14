@@ -29,9 +29,10 @@ You can click the Preview link to take a look at your changes.
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantminerva&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
-<br>
+<br align="center">
 
-# Connect with me<img src="https://github.com/nishantminerva/nishantminerva/blob/734f434de35474628bdd6901921bc2fd056bab1a/Assets/Handshake.gif" height="32px">
+<h2 align="center">📫 Reach out to me on</h2>
+<img src="https://github.com/nishantminerva/nishantminerva/blob/734f434de35474628bdd6901921bc2fd056bab1a/Assets/Handshake.gif" height="32px">
 
 
 
@@ -42,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-<h2 align="center">📫 Reach out to me on</h2>
+
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/nishantminerva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/NishantMinerva"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
