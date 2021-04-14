@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 - ❤️ I Love to Learn new things and Want to explore every technology and currently learning IOS Development and CS50 Introduction to Computer Science.
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/NishnatMinerva](https://www.github.com/nishantminerva)
+- 👨‍💻 All of my projects are available at [https://www.github.com/NishanttMinerva](https://www.github.com/nishantminerva)
 
 - 📝 I love to write articles on [https://medium.com/@NishantMinerva](https://medium.com/@nishantminerva)
 
