@@ -8,3 +8,44 @@
 nishantminerva/nishantminerva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Dhairya Bahl 👨‍💻 </h1>
+ 
+ <p align="center">
+<img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
+ </p>
+ 
+<h2 align="center">I ❤️ Open Source</h2>
+
+- 🌱 I’m passionate about **Web Development, Machine Learning, Android Development and almost every technology**
+
+- ❤️ I Love to Learn new things and Want to explore every technology
+
+- 👨‍💻 All of my projects are available at [https://www.github.com/DhairyaBahl](https://www.github.com/DhairyaBahl)
+
+- 📝 I love to write articles on [https://medium.com/@dhairyabahl5](https://medium.com/@dhairyabahl5)
+
+- 💬 **Just A Noob ^__^**
+
+<h2 align="center">⚙️ GitHub Statistics</h2>
+
+<p align="center">
+<a href="https://github.com/nishantminerva">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nishantminerva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantminerva&layout=compact&langs_count=8&theme=radical"/>
+</a>
+</p>
+
+<h2 align="center">📫 Reach out to me on</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/nishantminerva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/NishantMinerva"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:nishantkumar.cse2020@nsec.ac.in?subject=Hello%20Nishant,%20From%20Github"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </p>
+
+<br />
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/DhairyaBahl/count.svg" />
+</p>
+
