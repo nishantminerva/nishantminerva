@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 <br>
 
-# Connect with me<img src="https://github.com/nishantminerva/nishantminerva/Assets/Handshake.gif" height="32px">
+# Connect with me<img src="https://github.com/nishantminerva/nishantminerva/blob/734f434de35474628bdd6901921bc2fd056bab1a/Assets/Handshake.gif" height="32px">
 
 
 
