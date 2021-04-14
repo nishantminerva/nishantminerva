@@ -3,7 +3,7 @@
 nishantminerva/nishantminerva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Nishant Minerva 👨‍💻 </h1>
+<h1 align="center">Hi <img src="https://github.com/nishantminerva/nishantminerva/blob/734f434de35474628bdd6901921bc2fd056bab1a/Assets/Hi.gif" width="29px">, I'm Nishant Minerva 👨‍💻 </h1>
  
  <p align="center">
 <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 - ❤️ I Love to Learn new things and Want to explore every technology and currently learning IOS Development and CS50 Introduction to Computer Science.
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/NishanttMinerva](https://www.github.com/nishantminerva)
+- 👨‍💻 All of my projects are available at [https://www.github.com/NishantMinerva](https://www.github.com/nishantminerva)
 
 - 📝 I love to write articles on [https://medium.com/@NishantMinerva](https://medium.com/@nishantminerva)
 
