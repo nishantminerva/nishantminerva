@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 
 | [<img src="https://github.com/nishantminerva/nishantminerva/blob/734f434de35474628bdd6901921bc2fd056bab1a/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/nishantminerva) | [<img src="https://github.com/nishantminerva/nishantminerva/blob/734f434de35474628bdd6901921bc2fd056bab1a/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/NishantMinerva) | [<img src="https://github.com/nishantminerva/nishantminerva/blob/734f434de35474628bdd6901921bc2fd056bab1a/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/nishantminerva/)| [<img src="https://github.com/nishantminerva/nishantminerva/blob/734f434de35474628bdd6901921bc2fd056bab1a/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/15362237/nishant-minerva)| [<img src="https://github.com/nishantminerva/nishantminerva/blob/734f434de35474628bdd6901921bc2fd056bab1a/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:nishantkumar.cse2020@nsec.ac.in)
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
 
