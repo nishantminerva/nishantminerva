@@ -44,16 +44,10 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/nishantminerva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/NishantMinerva"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:nishantkumar.cse2020@nsec.ac.in?subject=Hello%20Nishant,%20From%20Github"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  </p>
-
-<br />
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/nishantminerva/count.svg" />
 </p>
 
+<br />
