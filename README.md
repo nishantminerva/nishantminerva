@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
  
 <h2 align="center">I ❤️ Open Source and Startups </h2>
 
-- 🌱 I’m passionate about **Web Development, Machine Learning, Android Development and I’m looking to collaborate on web-development,IOS Apps,Python projects**.
+- 🌱 I’m passionate about ** IOS Development and Machine Learning. I’m looking to collaborate on IOS Development, Machine Learning**.
 
-- ❤️ I Love to Learn new things and Want to explore every technology and currently learning IOS Development and CS50 Introduction to Computer Science.
+- ❤️ I Love to Learn new things and Want to explore every technology and currently learning IOS Development and Machine Learning.
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/NishantMinerva](https://www.github.com/nishantminerva)
 
