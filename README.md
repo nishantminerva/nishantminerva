@@ -17,7 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/NishantMinerva](https://www.github.com/nishantminerva)
 
-- 📝 I love to write articles on [https://medium.com/@NishantMinerva](https://medium.com/@nishantminerva)
 
 - 💬 **Just A Noob ^__^**
 
