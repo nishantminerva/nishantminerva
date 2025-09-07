@@ -9,11 +9,11 @@ You can click the Preview link to take a look at your changes.
 <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
  </p>
  
-<h2 align="center">I ❤️ Open Source and Startups </h2>
+<h2 align="center">I ❤️ turing designs into reality </h2>
 
-- 🌱 I’m passionate about ** IOS Development and Machine Learning. I’m looking to collaborate on IOS Development, Machine Learning**.
+- 🌱 I’m a passionate ** IOS Developer. I’m looking to collaborate on IOS Development**.
 
-- ❤️ I Love to Learn new things and Want to explore every technology and currently learning IOS Development and Machine Learning.
+- ❤️ I love to learn new things and currently doing building on device AI based app on my weekends.
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/NishantMinerva](https://www.github.com/nishantminerva)
 
